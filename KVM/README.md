@@ -1,0 +1,1 @@
+# Use make to compile all files in both folders
